@@ -1,12 +1,9 @@
-vim
-___
+# vim
 
-videos
-------
+
+## videos
 [Martin Brochhaus: Vim as python IDE](https://www.youtube.com/watch?v=YhqsjUUHj6g)
 
-git
-___
+# git
 
-docker
-______
+# docker
